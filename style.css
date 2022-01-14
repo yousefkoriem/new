@@ -141,6 +141,7 @@ section{
 
 .content .card .info{
     text-align: center;
+    color: #000f;
 }
 
 .content .card .info h3{
@@ -148,4 +149,8 @@ section{
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
+}
+
+.content a{
+    text-decoration: none;
 }
